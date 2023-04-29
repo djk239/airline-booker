@@ -1,0 +1,22 @@
+--------------------------------------------------------------
+| TICKET 
+| NAME:Dale King
+| EMAIL: daleking0117@gmail.com
+| PASSPORT NUMBER: 45345320031
+| CLASS: 1
+| SEAT: 3 - 6
+| DESTINATION: LAX
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+| TICKET 
+| NAME:Dale King
+| EMAIL: daleking0117@gmail.com
+| PASSPORT NUMBER: 2345674
+| CLASS: 2
+| SEAT: 9 - 9
+| DESTINATION: ICN
+--------------------------------------------------------------
+
+

@@ -1,0 +1,7 @@
+PHL - Philadelphia International Airport
+LAX - Los Angeles International Airport
+DFW - Dallas Fort Worth International Airport
+PHX - Phoenix Sky Harbor International Airport
+JFK - John F. Kennedy International Airport
+DEN - Denver International Airport
+ICN - Incheon International Airport
